@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formbookwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formbookwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formbookreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formmemberwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formmemberwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formmemberwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formmemberwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\memberviewborrowedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\memberviewborrowedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\memberviewborrowedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\memberviewborrowedbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\memberviewallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\memberviewallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|e:\\01- apiit\\1st year\\semester 2\\03 - c# - software development and application modeling\\assignnment\\library system\\lms project forms\\lms project forms\\memberviewallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\memberviewallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formmainmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formmainmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formmainlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formmainlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formlibrariandisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formlibrariandisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formlibrarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formlibrariandisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formlibrariandisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\formbookwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\formbookwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\lms project forms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD8C9C8C-BAE3-4D83-AE1C-464604EB75AD}|LMS Project forms\\LMS Project forms.csproj|solutionrelative:lms project forms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "memberViewBorrowedBooks.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewBorrowedBooks.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\memberViewBorrowedBooks.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewBorrowedBooks.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\memberViewBorrowedBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:06:03.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formBorrow.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBorrow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formBorrow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBorrow.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formBorrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:21:59.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formBorrow.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBorrow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formBorrow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBorrow.cs",
+              "RelativeToolTip": "LMS Project forms\\formBorrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:22:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "memberViewBorrowedBooks.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewBorrowedBooks.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\memberViewBorrowedBooks.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewBorrowedBooks.cs",
+              "RelativeToolTip": "LMS Project forms\\memberViewBorrowedBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:47:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "memberViewAllBooks.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewAllBooks.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\memberViewAllBooks.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewAllBooks.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\memberViewAllBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:10:12.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "memberViewAllBooks.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewAllBooks.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\memberViewAllBooks.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\memberViewAllBooks.cs",
+              "RelativeToolTip": "LMS Project forms\\memberViewAllBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:29:53.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formBookWindow.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookWindow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formBookWindow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookWindow.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formBookWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:10:02.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formBookReturn.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookReturn.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formBookReturn.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookReturn.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formBookReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T17:56:56.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formMemberWindow.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMemberWindow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formMemberWindow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMemberWindow.cs",
+              "RelativeToolTip": "LMS Project forms\\formMemberWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:48:26.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formMemberWindow.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMemberWindow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formMemberWindow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMemberWindow.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formMemberWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:10:09.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formWelcome.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formWelcome.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formWelcome.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formWelcome.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formWelcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:29:28.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formMember.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMember.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formMember.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMember.cs [Design]",
+              "RelativeToolTip": "LMS Project forms\\formMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:10:08.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formMainMember.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMainMember.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formMainMember.cs",
+              "ToolTip": "F:\\Work\\Personal\\Assignment Writing\\Aadhil Shadir Frnd - Library Book Managment LMS\\Library System - GUI and DB\\Library System - GUI and DB\\LMS Project forms\\LMS Project forms\\formMainMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:32:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "formMainLibrarian.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formMainLibrarian.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formMainLibrarian.cs",
+              "ToolTip": "F:\\Work\\Personal\\Assignment Writing\\Aadhil Shadir Frnd - Library Book Managment LMS\\Library System - GUI and DB\\Library System - GUI and DB\\LMS Project forms\\LMS Project forms\\formMainLibrarian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:09:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "formLibrarianDisplay.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formLibrarianDisplay.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formLibrarianDisplay.cs",
+              "ToolTip": "F:\\Work\\Personal\\Assignment Writing\\Aadhil Shadir Frnd - Library Book Managment LMS\\Library System - GUI and DB\\Library System - GUI and DB\\LMS Project forms\\LMS Project forms\\formLibrarianDisplay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:10:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "formLibrarian.cs [Design]",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formLibrarian.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formLibrarian.cs",
+              "ToolTip": "F:\\Work\\Personal\\Assignment Writing\\Aadhil Shadir Frnd - Library Book Managment LMS\\Library System - GUI and DB\\Library System - GUI and DB\\LMS Project forms\\LMS Project forms\\formLibrarian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:21:57.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "formLibrarianDisplay.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formLibrarianDisplay.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formLibrarianDisplay.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formLibrarianDisplay.cs",
+              "RelativeToolTip": "LMS Project forms\\formLibrarianDisplay.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T21:15:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "formBookWindow.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookWindow.cs",
+              "RelativeDocumentMoniker": "LMS Project forms\\formBookWindow.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\formBookWindow.cs",
+              "RelativeToolTip": "LMS Project forms\\formBookWindow.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T12:58:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\App.config",
+              "RelativeDocumentMoniker": "LMS Project forms\\App.config",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project forms\\LMS Project forms\\App.config",
+              "RelativeToolTip": "LMS Project forms\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-03T08:14:12.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
